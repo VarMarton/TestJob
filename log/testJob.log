@@ -1,0 +1,27 @@
+2020-06-29 09:34:47 WARN  DatabaseManager - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "location_pk"
+  Detail: Key (id)=(0fe479bb-fe39-4265-b59f-bb4ac5a060d4) already exists.
+2020-06-29 09:34:47 WARN  DatabaseManager - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "location_pk"
+  Detail: Key (id)=(ac867cd8-c321-42ab-b179-01a4b8301a9c) already exists.
+2020-06-29 09:34:47 WARN  DatabaseManager - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "location_pk"
+  Detail: Key (id)=(bfcd9dc2-3ead-470b-9846-5a3f6d8f32a1) already exists.
+2020-06-29 09:34:47 WARN  DatabaseManager - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "location_pk"
+  Detail: Key (id)=(5ae22efb-f875-4134-a03d-6402efa31dc5) already exists.
+2020-06-29 09:34:47 WARN  DatabaseManager - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "location_pk"
+  Detail: Key (id)=(1d551b07-fd16-4760-88a3-4aa4fda13a2b) already exists.
+2020-06-29 09:34:47 WARN  DatabaseManager - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "location_pk"
+  Detail: Key (id)=(52ea143e-cb45-43af-981e-92cedb89f7a8) already exists.
+2020-06-29 09:34:47 WARN  DatabaseManager - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "location_pk"
+  Detail: Key (id)=(c47ab7b4-3a94-4218-8e0b-4bada1fb05c0) already exists.
+2020-06-29 09:34:47 WARN  DatabaseManager - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "location_pk"
+  Detail: Key (id)=(5c3a4cf8-1ac4-456d-ba85-a782ff475256) already exists.
+2020-06-29 09:34:47 WARN  DatabaseManager - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "location_pk"
+  Detail: Key (id)=(013cc380-c18b-4c87-8043-16e14f7127de) already exists.
+2020-06-29 09:34:47 WARN  DatabaseManager - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "location_pk"
+  Detail: Key (id)=(5249f33c-fadf-44d9-ab70-471df29c20a6) already exists.
+2020-06-29 09:34:47 WARN  DatabaseManager - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "listing_status_pk"
+  Detail: Key (id)=(1) already exists.
+2020-06-29 09:34:47 WARN  DatabaseManager - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "listing_status_pk"
+  Detail: Key (id)=(2) already exists.
+2020-06-29 09:34:47 WARN  DatabaseManager - org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "listing_status_pk"
+  Detail: Key (id)=(3) already exists.
+2020-06-29 09:34:48 INFO  TestJob - TestJob has finished.

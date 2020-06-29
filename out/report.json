@@ -1,0 +1,227 @@
+{
+  "total_listing_count" : 3775,
+  "total_ebay_listing_count" : 1838,
+  "total_ebay_listing_price" : 916958.14,
+  "average_ebay_listing_price" : 498.88908596300325,
+  "total_amazon_listing_count" : 1937,
+  "total_amazon_listing_price" : 964961.68,
+  "average_amazon_listing_price" : 498.1732989158493,
+  "best_lister_email_address" : [ "bmidd@yahoo.com" ],
+  "monthly_reports" : [ {
+    "month" : "2018-12",
+    "total_ebay_listing_count" : 72,
+    "total_ebay_listing_price" : 38915.52,
+    "average_ebay_listing_price" : 540.4933333333333,
+    "total_amazon_listing_count" : 77,
+    "total_amazon_listing_price" : 37343.05,
+    "average_amazon_listing_price" : 484.97467532467533,
+    "best_lister_email_address" : [ "josem@aol.com" ]
+  }, {
+    "month" : "2018-11",
+    "total_ebay_listing_count" : 74,
+    "total_ebay_listing_price" : 38491.83,
+    "average_ebay_listing_price" : 520.1598648648649,
+    "total_amazon_listing_count" : 76,
+    "total_amazon_listing_price" : 41751.47,
+    "average_amazon_listing_price" : 549.3614473684211,
+    "best_lister_email_address" : [ "mhanoh@verizon.net" ]
+  }, {
+    "month" : "2018-10",
+    "total_ebay_listing_count" : 65,
+    "total_ebay_listing_price" : 29419.77,
+    "average_ebay_listing_price" : 452.61184615384616,
+    "total_amazon_listing_count" : 72,
+    "total_amazon_listing_price" : 35412.86,
+    "average_amazon_listing_price" : 491.84527777777777,
+    "best_lister_email_address" : [ "bhtower@sbcglobal.net", "jgwang@aol.com" ]
+  }, {
+    "month" : "2018-09",
+    "total_ebay_listing_count" : 81,
+    "total_ebay_listing_price" : 35862.3,
+    "average_ebay_listing_price" : 442.74444444444447,
+    "total_amazon_listing_count" : 74,
+    "total_amazon_listing_price" : 40799.06,
+    "average_amazon_listing_price" : 551.3386486486487,
+    "best_lister_email_address" : [ "josem@aol.com", "wkrebs@comcast.net" ]
+  }, {
+    "month" : "2018-08",
+    "total_ebay_listing_count" : 84,
+    "total_ebay_listing_price" : 39784.71,
+    "average_ebay_listing_price" : 473.6275,
+    "total_amazon_listing_count" : 67,
+    "total_amazon_listing_price" : 31974.12,
+    "average_amazon_listing_price" : 477.22567164179105,
+    "best_lister_email_address" : [ "crobles@yahoo.com" ]
+  }, {
+    "month" : "2018-07",
+    "total_ebay_listing_count" : 71,
+    "total_ebay_listing_price" : 31737.54,
+    "average_ebay_listing_price" : 447.0076056338028,
+    "total_amazon_listing_count" : 71,
+    "total_amazon_listing_price" : 31778.96,
+    "average_amazon_listing_price" : 447.590985915493,
+    "best_lister_email_address" : [ "mhanoh@verizon.net" ]
+  }, {
+    "month" : "2018-06",
+    "total_ebay_listing_count" : 58,
+    "total_ebay_listing_price" : 25434.66,
+    "average_ebay_listing_price" : 438.52862068965516,
+    "total_amazon_listing_count" : 87,
+    "total_amazon_listing_price" : 45077.42,
+    "average_amazon_listing_price" : 518.1312643678161,
+    "best_lister_email_address" : [ "mallanmba@mac.com" ]
+  }, {
+    "month" : "2018-05",
+    "total_ebay_listing_count" : 69,
+    "total_ebay_listing_price" : 35664.24,
+    "average_ebay_listing_price" : 516.8730434782609,
+    "total_amazon_listing_count" : 73,
+    "total_amazon_listing_price" : 38326.66,
+    "average_amazon_listing_price" : 525.0227397260275,
+    "best_lister_email_address" : [ "jipsen@hotmail.com", "mallanmba@mac.com" ]
+  }, {
+    "month" : "2018-04",
+    "total_ebay_listing_count" : 55,
+    "total_ebay_listing_price" : 28406.69,
+    "average_ebay_listing_price" : 516.4852727272727,
+    "total_amazon_listing_count" : 74,
+    "total_amazon_listing_price" : 42246.42,
+    "average_amazon_listing_price" : 570.8975675675675,
+    "best_lister_email_address" : [ "bmidd@yahoo.com" ]
+  }, {
+    "month" : "2018-03",
+    "total_ebay_listing_count" : 73,
+    "total_ebay_listing_price" : 39982.45,
+    "average_ebay_listing_price" : 547.7047945205479,
+    "total_amazon_listing_count" : 74,
+    "total_amazon_listing_price" : 39518.06,
+    "average_amazon_listing_price" : 534.0278378378379,
+    "best_lister_email_address" : [ "krueger@yahoo.com", "naoya@verizon.net", "stefano@live.com" ]
+  }, {
+    "month" : "2018-02",
+    "total_ebay_listing_count" : 55,
+    "total_ebay_listing_price" : 23898.13,
+    "average_ebay_listing_price" : 434.51145454545457,
+    "total_amazon_listing_count" : 61,
+    "total_amazon_listing_price" : 29099.36,
+    "average_amazon_listing_price" : 477.03868852459016,
+    "best_lister_email_address" : [ "bhtower@sbcglobal.net", "jfmulder@me.com" ]
+  }, {
+    "month" : "2018-01",
+    "total_ebay_listing_count" : 68,
+    "total_ebay_listing_price" : 31827.81,
+    "average_ebay_listing_price" : 468.0560294117647,
+    "total_amazon_listing_count" : 78,
+    "total_amazon_listing_price" : 37982.55,
+    "average_amazon_listing_price" : 486.95576923076925,
+    "best_lister_email_address" : [ "dburrows@live.com", "jfmulder@me.com" ]
+  }, {
+    "month" : "2017-12",
+    "total_ebay_listing_count" : 76,
+    "total_ebay_listing_price" : 36134.05,
+    "average_ebay_listing_price" : 475.4480263157895,
+    "total_amazon_listing_count" : 73,
+    "total_amazon_listing_price" : 36238.33,
+    "average_amazon_listing_price" : 496.4154794520548,
+    "best_lister_email_address" : [ "bmidd@yahoo.com", "dburrows@live.com", "mhanoh@verizon.net" ]
+  }, {
+    "month" : "2017-11",
+    "total_ebay_listing_count" : 76,
+    "total_ebay_listing_price" : 42406.53,
+    "average_ebay_listing_price" : 557.9806578947369,
+    "total_amazon_listing_count" : 76,
+    "total_amazon_listing_price" : 34945.46,
+    "average_amazon_listing_price" : 459.80868421052634,
+    "best_lister_email_address" : [ "wkrebs@comcast.net" ]
+  }, {
+    "month" : "2017-10",
+    "total_ebay_listing_count" : 69,
+    "total_ebay_listing_price" : 35964.05,
+    "average_ebay_listing_price" : 521.2181159420289,
+    "total_amazon_listing_count" : 68,
+    "total_amazon_listing_price" : 28155.09,
+    "average_amazon_listing_price" : 414.0454411764706,
+    "best_lister_email_address" : [ "naoya@verizon.net" ]
+  }, {
+    "month" : "2017-09",
+    "total_ebay_listing_count" : 64,
+    "total_ebay_listing_price" : 30664.99,
+    "average_ebay_listing_price" : 479.14046875,
+    "total_amazon_listing_count" : 82,
+    "total_amazon_listing_price" : 42643.65,
+    "average_amazon_listing_price" : 520.0445121951219,
+    "best_lister_email_address" : [ "krueger@yahoo.com" ]
+  }, {
+    "month" : "2017-08",
+    "total_ebay_listing_count" : 62,
+    "total_ebay_listing_price" : 29429.36,
+    "average_ebay_listing_price" : 474.66709677419357,
+    "total_amazon_listing_count" : 82,
+    "total_amazon_listing_price" : 40895.28,
+    "average_amazon_listing_price" : 498.7229268292683,
+    "best_lister_email_address" : [ "bmidd@yahoo.com", "jgwang@aol.com" ]
+  }, {
+    "month" : "2017-07",
+    "total_ebay_listing_count" : 60,
+    "total_ebay_listing_price" : 29937.72,
+    "average_ebay_listing_price" : 498.962,
+    "total_amazon_listing_count" : 64,
+    "total_amazon_listing_price" : 32479.85,
+    "average_amazon_listing_price" : 507.49765625,
+    "best_lister_email_address" : [ "jgwang@aol.com" ]
+  }, {
+    "month" : "2017-06",
+    "total_ebay_listing_count" : 82,
+    "total_ebay_listing_price" : 39567.31,
+    "average_ebay_listing_price" : 482.5281707317073,
+    "total_amazon_listing_count" : 61,
+    "total_amazon_listing_price" : 26926.5,
+    "average_amazon_listing_price" : 441.41803278688525,
+    "best_lister_email_address" : [ "mfburgo@yahoo.com" ]
+  }, {
+    "month" : "2017-05",
+    "total_ebay_listing_count" : 56,
+    "total_ebay_listing_price" : 32594.53,
+    "average_ebay_listing_price" : 582.0451785714286,
+    "total_amazon_listing_count" : 74,
+    "total_amazon_listing_price" : 39053.08,
+    "average_amazon_listing_price" : 527.7443243243243,
+    "best_lister_email_address" : [ "dburrows@live.com" ]
+  }, {
+    "month" : "2017-04",
+    "total_ebay_listing_count" : 66,
+    "total_ebay_listing_price" : 34981.28,
+    "average_ebay_listing_price" : 530.0193939393939,
+    "total_amazon_listing_count" : 63,
+    "total_amazon_listing_price" : 27745.12,
+    "average_amazon_listing_price" : 440.39873015873013,
+    "best_lister_email_address" : [ "jgwang@aol.com" ]
+  }, {
+    "month" : "2017-03",
+    "total_ebay_listing_count" : 65,
+    "total_ebay_listing_price" : 34591.9,
+    "average_ebay_listing_price" : 532.1830769230769,
+    "total_amazon_listing_count" : 68,
+    "total_amazon_listing_price" : 37165.42,
+    "average_amazon_listing_price" : 546.550294117647,
+    "best_lister_email_address" : [ "krueger@yahoo.com" ]
+  }, {
+    "month" : "2017-02",
+    "total_ebay_listing_count" : 59,
+    "total_ebay_listing_price" : 34241.91,
+    "average_ebay_listing_price" : 580.3713559322034,
+    "total_amazon_listing_count" : 59,
+    "total_amazon_listing_price" : 26199.71,
+    "average_amazon_listing_price" : 444.0628813559322,
+    "best_lister_email_address" : [ "mhanoh@verizon.net" ]
+  }, {
+    "month" : "2017-01",
+    "total_ebay_listing_count" : 71,
+    "total_ebay_listing_price" : 38352.77,
+    "average_ebay_listing_price" : 540.1798591549295,
+    "total_amazon_listing_count" : 73,
+    "total_amazon_listing_price" : 36711.49,
+    "average_amazon_listing_price" : 502.8971232876712,
+    "best_lister_email_address" : [ "bmidd@yahoo.com" ]
+  } ]
+}
